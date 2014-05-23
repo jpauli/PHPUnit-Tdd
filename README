@@ -1,0 +1,5 @@
+This project is related to http://julien-pauli.developpez.com/tutoriels/php/phpunit-tdd/
+It shows how to practice Test Driven Development(TDD) on a simple project.
+It makes use of PHPUnit and a step by step approach to understand TDD concepts.
+
+This project is aimed for PHP training sessions and is not designed to be used as a production code as-is.
